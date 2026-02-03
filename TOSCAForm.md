@@ -29,8 +29,33 @@
 
 ---
 
-### 3. Positive Practices Observed and Reinforced  
-*Describe specific safe behaviours, controls, or decisions that were acknowledged.*
+content: |-
+  ### 3. Positive Practices Observed and Reinforced  
+  *Describe specific safe behaviours, controls, or decisions that were acknowledged.*
 
-```text
-[ Free text ]
+  **[ Free text ]**
+
+  ---
+
+  ### 4. Contributing Factors or Reasons Discussed (if applicable)  
+  *(e.g. layout, tools, time pressure, task design, procedure clarity, environment)*
+
+  **[ Free text ]**
+
+  ---
+
+  ### 5. Safety Communication / Close-Out Discussion  
+  *What was discussed with the worker/crew, including reinforcement of safe behaviours and any agreed changes.*
+
+  **[ Free text ]**
+
+  ---
+
+  ### 6. Actions and Follow-Up
+
+  | Item | Yes / No | Details |
+  |-----|----------|---------|
+  | Immediate correction made |  |  |
+  | Corrective Action / CAR required |  |  |
+  | Stop Work Authority exercised |  |  |
+  | Follow-up owner & due date |  |  |
